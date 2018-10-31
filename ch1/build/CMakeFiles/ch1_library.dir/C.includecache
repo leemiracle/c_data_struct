@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/ch1.h
+stdio.h
+../include/stdio.h
+
+/home/lwz/project/c_data_struct/src/ch1.c
+ch1.h
+/home/lwz/project/c_data_struct/src/ch1.h
+math.h
+/home/lwz/project/c_data_struct/src/math.h
+

@@ -1,0 +1,4 @@
+/home/lwz/project/c_data_struct/build/CMakeFiles/edit_cache.dir
+/home/lwz/project/c_data_struct/build/CMakeFiles/ch1_binary.dir
+/home/lwz/project/c_data_struct/build/CMakeFiles/rebuild_cache.dir
+/home/lwz/project/c_data_struct/build/CMakeFiles/ch1_library.dir

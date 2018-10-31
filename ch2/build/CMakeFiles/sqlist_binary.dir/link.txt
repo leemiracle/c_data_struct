@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/sqlist_binary.dir/test_sqlist.c.o  -o sqlist_binary libsqlist_library.a 

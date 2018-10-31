@@ -1,0 +1,2 @@
+/usr/bin/ar qc libch1_library.a  CMakeFiles/ch1_library.dir/src/ch1.c.o
+/usr/bin/ranlib libch1_library.a

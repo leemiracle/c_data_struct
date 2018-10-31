@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/common.h
+stdio.h
+-
+
+../include/linklist.h
+common.h
+../include/common.h
+
+/home/lwz/project/c_data_struct/ch2/test_linklist.c
+linklist.h
+/home/lwz/project/c_data_struct/ch2/linklist.h
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsqlist_library.a  CMakeFiles/sqlist_library.dir/src/sqlist.c.o
+/usr/bin/ranlib libsqlist_library.a

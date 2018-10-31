@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/linklist_binary.dir/test_linklist.c.o  -o linklist_binary liblinklist_library.a 

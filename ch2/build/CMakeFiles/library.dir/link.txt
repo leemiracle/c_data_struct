@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibrary.a  CMakeFiles/library.dir/src/sqlist.c.o CMakeFiles/library.dir/src/linklist.c.o
+/usr/bin/ranlib liblibrary.a
